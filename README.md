@@ -14,17 +14,23 @@ This repository contains my most recent CV for professional opportunities in **F
 
 ## 💼 Summary
 
-I’m a US Certified Public Accountant (Washington State) with over 10 years of experience in **audit, financial analysis, and business operations** across Germany, Luxembourg, the UK, and Japan.  
-My background combines **Big 4 fund advisory, internal controls (SOX, J-SOX), and FP&A/Controlling** expertise, supported by an MBA and international work experience.
+I’m a US Certified Public Accountant (Washington State) with over 10 years of 
+experience in accounting, controlling, audit, financial analysis, and business 
+operations across Germany, Luxembourg, the UK, and Japan.
+
+My background combines HGB / IFRS / US GAAP accounting, Big 4 fund advisory,
+internal controls (SOX / J-SOX), and FP&A / Controlling expertise, supported 
+by an MBA and extensive international work experience.
 
 ---
 
 ## 🔍 Key Competencies
 
-- Financial Controlling & FP&A (HGB / IFRS / US GAAP)
-- Audit & Internal Control (SOX / PCAOB / Risk Management)
-- Financial Modeling, Budgeting, and Reporting
-- Process Optimization & Automation
+- Accounting & Month-End Close (HGB / IFRS / US GAAP)
+- Financial Controlling & FP&A (Budgeting, Forecasting, Variance Analysis)
+- Audit & Internal Control (SOX / PCAOB / J-SOX; coordination with auditors)
+- Reporting & Consolidation Support (IFRS group packages, management reporting)
+- Process Optimization & Automation (Excel/VBA, ERP/BI systems)
 - Strategic Business Partnering and Cross-Functional Collaboration
 - Fluent in English; working proficiency in German; native Japanese
 
