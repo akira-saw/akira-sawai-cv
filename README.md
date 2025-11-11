@@ -1,6 +1,6 @@
 # Akira Sawai
 
-**Finance & Operations Professional | US CPA | MBA | Berlin, Germany**
+**Finance & Accounting Professional | US CPA | MBA | Berlin, Germany**
 
 Hello and thank you for visiting my GitHub profile.  
 This repository contains my most recent CV for professional opportunities in **Finance, Controlling, Audit, and Business Operations**.
