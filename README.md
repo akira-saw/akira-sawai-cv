@@ -8,7 +8,7 @@ This repository contains my most recent CV for professional opportunities in **F
 ---
 
 ## 📄 View my CV
-[👉 Click here to open the PDF](https://github.com/akira-saw/akira-sawai-cv/blob/main/Akira%20Sawai_CV%20English%20Oct2025%20g.pdf)
+[👉 Click here to open the PDF](https://github.com/akira-saw/akira-sawai-cv/blob/main/Akira_Sawai_CV_Nov2025_g.pdf)
 
 ---
 
